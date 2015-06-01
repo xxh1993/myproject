@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">健人来打卡</string>
+    <string name="action_settings">Settings</string>
+    <string name="bingo">打卡去！</string>
+    <string name="tips">性别</string>
+    <string name="agree">我已仔细阅读并同意服务协议</string>
+    <string name="more">更多</string>
+    <string name="doc">打卡</string>
+    <string name="home">首页</string>
+    <string name="bottom">底栏</string>
+
+</resources>
